@@ -1,0 +1,86 @@
+
+.container{
+    margin: 2% 5% 0 5%;
+    width: 90%;
+    background-color: rgb(241, 238, 197);
+}
+.heading{
+    background-color: brown;
+    text-align: center;
+    color: cornsilk;
+    padding-bottom: 0;
+    margin:0;
+}
+p{
+    display: inline-block;
+    margin: 0;;
+
+}
+
+.subheading{
+    font-size: 0.8rem;
+}
+.asterisk{
+    color: crimson;
+}
+
+.tbl{
+    margin: 0;
+}
+table,tr,td{
+    border: 1px solid black;
+    padding:0;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+td{
+    border-right: none;
+}]
+  .first{
+    width: 5vh;
+    border-right: 1px solid black;
+}
+
+.second{
+    width: 50%;
+
+}
+
+h4{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+.fourth{
+    width:33%;
+    border: none;
+}
+
+.fifth{
+    width: 200px;
+}
+
+.innertable{
+    width: 152%;
+
+    border: 1px solid black;
+    
+
+}
+
+.secondtable{
+       border-collapse: collapse;
+        border: none;
+    
+}
+
+.noborder{
+    border: none;
+    
+}
+
+
+
